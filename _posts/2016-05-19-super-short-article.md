@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Some articles are just so good that we have to make the bite"
+title: "Some articles are just so short that we have to make the footer stick"
 categories: misc
 ---
 
